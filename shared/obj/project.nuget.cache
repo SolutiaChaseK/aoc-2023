@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8XIaBGQ4aSQ+uEmeWJ2yC+sDO7iG171l0lnKP1cVub1YvRcdnKhH+22ygKHzQwkc4TtbJ51EKD3pb21Cfsv6eg==",
+  "dgSpecHash": "wWmKRAQZEQV0CaD85+7Nt42WsikV021RYro2xHJXX1m/F/yVke3ntYzASXCvhTHxtOpJBjGIsE7qfd03sxL+0w==",
   "success": true,
-  "projectFilePath": "/Users/solutia/Documents/Repos/aoc-2023/shared/Shared.csproj",
+  "projectFilePath": "C:\\Git\\aoc-2023\\shared\\Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,30 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/Users/solutia/Documents/Repos/aoc-2023/shared/Shared.csproj": {}
+    "C:\\Git\\aoc-2023\\shared\\Shared.csproj": {}
   },
   "projects": {
-    "/Users/solutia/Documents/Repos/aoc-2023/shared/Shared.csproj": {
+    "C:\\Git\\aoc-2023\\shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/solutia/Documents/Repos/aoc-2023/shared/Shared.csproj",
+        "projectUniqueName": "C:\\Git\\aoc-2023\\shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "/Users/solutia/Documents/Repos/aoc-2023/shared/Shared.csproj",
-        "packagesPath": "/Users/solutia/.nuget/packages/",
-        "outputPath": "/Users/solutia/Documents/Repos/aoc-2023/shared/obj/",
+        "projectPath": "C:\\Git\\aoc-2023\\shared\\Shared.csproj",
+        "packagesPath": "C:\\Users\\ChaseKarolewski\\.nuget\\packages\\",
+        "outputPath": "C:\\Git\\aoc-2023\\shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/solutia/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ChaseKarolewski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -35,16 +37,15 @@
         }
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -53,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.125\\RuntimeIdentifierGraph.json"
         }
       }
     }
